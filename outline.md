@@ -1,0 +1,3 @@
+- intro
+- foreword
+- tactics enumerated
